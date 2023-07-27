@@ -1,0 +1,13 @@
+*{padding: 0;margin: 0;box-sizing: border-box;}
+a{text-decoration: none;}
+ul{list-style: none;}
+.navigation-menu a{padding: 0 10px ;text-decoration: none;}
+header{box-shadow: -21.213px 21.213px 30px 0 rgba(158, 158, 158, 0.3); position: fixed; width: 100%;padding-bottom: 20px; z-index: 10;}
+.navigation-menu img{max-height: 38px;width: 100%;}
+ .container1{width: 90%;margin: auto;}
+ .col-6 img{max-height: 100%; max-width: 100%;}
+ .box .box-items{padding-left: 60px;padding-top: 20px;}
+ .box p{color: #777;font-size: 20px;}
+ .box span{color: white;font-size: 20px;}
+ .box .button{ position: absolute; top: 45px;left: 800px; border :#777;}
+ .box{position: relative;}
